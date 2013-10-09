@@ -1,14 +1,16 @@
-body {
+html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #333;
-  background: #fff url("/images/denver.jpg");
+  background: url(/images/denver.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
 .rc {
   position: absolute;
   left: 70px;
-  bottom: 225px;
+  bottom: 400px;
   font-family: 'Helvetica Neue',Helvetica, sans-serif;
   line-height: 1em;
   color: #c3c2be;
