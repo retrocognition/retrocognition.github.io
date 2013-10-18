@@ -1,7 +1,7 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
-  background: #fff url("/images/denver.jpg");
+  background: #fff url("/images/denver.min.jpg");
   background-size: cover;
 }
 
